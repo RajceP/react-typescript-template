@@ -2,7 +2,8 @@
   "editor.codeActionsOnSave": [
     "source.addMissingImports",
     "source.fixAll.stylelint",
-    "source.fixAll.eslint"
+    "source.fixAll.eslint",
+    "source.organizeImports"
   ],
   "editor.formatOnSave": true,
   "emmet.includeLanguages": {
