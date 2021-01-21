@@ -4,6 +4,7 @@
     {
       "name": "Chrome",
       "type": "pwa-chrome",
+      "runtimeExecutable": "C:\\Program Files\\Google\\Chrome Dev\\Application\\chrome.exe",
       "preLaunchTask": "npm: start",
       "postDebugTask": "npm stop",
       "request": "launch",
