@@ -5,11 +5,11 @@ React Create App template with configured ESlint and Prettier.
 ## Install dependencies:
 
 ```sh
-yarn i
+npm i
 ```
 
 ## Start App:
 
 ```sh
-yarn start
+npm start
 ```
